@@ -1,0 +1,52 @@
+{
+	"packages":[
+		{
+			"name": "Ronin's Robotics Board",
+			"maintainer": "Mehmet Murat YILMAZ",
+			"websiteURL": "https://roninsrobotics.com",
+			"email": "info@roninsrobotics.com",
+			"help":{
+				"online": "https://roninrobotics.com/"
+			},
+			"platforms": [
+				{	
+					"name": "Ronin's Robotic Board  Advanced",
+					"architecture": "avr",
+					"version": "1.0.1",
+					"category": "Contributed",
+					"help": {
+						"online": "https://roninrobotics.com/"
+					},
+					"url": "https://github.com/mmuratyilmaz/Ronin---board-master/raw/master/kai-1.0.0.zip",
+					"archiveFileName": "kai-1.0.0.zip",
+					"checksum": "SHA-256:4ff0a0cb006b7458b803db7589ddb8a9c10cdbe8df8e7ac8ad5d73055caa3ffa",
+					"size": "289317",
+					"boards": [
+						{"name" : "KAI NANO"},
+						{"name" : "KAI bit"}
+						],
+					"toolsDependencies": [	]
+		},
+		{	
+					"name": "Ronin's Robotic Board",
+					"architecture": "avr",
+					"version": "2.2.3",
+					"category": "Contributed",
+					"help": {
+						"online": "https://roninrobotics.com/"
+					},
+					"url": "https://github.com/mmuratyilmaz/Ronin---board-master/raw/master/kai-2.2.2.zip",
+					"archiveFileName": "kai-2.2.2.zip",
+					"checksum": "SHA-256:e0cc040878b31cc28cc9c69b19c97c975a7ac52102ec4883da854efae71de373",
+					"size": "195259",
+					"boards": [
+						{"name" : "KAI NANO"},
+						{"name" : "KAI bit"}
+						],
+					"toolsDependencies": [	]
+		}		
+		],
+		"tools": []
+		}
+	]
+}
