@@ -10,7 +10,7 @@
 			},
 			"platforms": [
 		{	
-					"name": "Ronin's Robotic Board",
+					"name": "Ronin's Robotics Board",
 					"architecture": "avr",
 					"version": "2.2.3",
 					"category": "Ronins Robotics",
